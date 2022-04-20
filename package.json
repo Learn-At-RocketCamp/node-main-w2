@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Learn-At-RocketCamp/node-main-w2/issues"
   },
-  "homepage": "https://github.com/Learn-At-RocketCamp/node-main-w2#readme"
+  "homepage": "https://github.com/Learn-At-RocketCamp/node-main-w2#readme",
+  "dependencies": {
+    "mongoose": "^6.3.0"
+  }
 }
