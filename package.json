@@ -1,0 +1,20 @@
+{
+  "name": "main-w2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Learn-At-RocketCamp/node-main-w2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Learn-At-RocketCamp/node-main-w2/issues"
+  },
+  "homepage": "https://github.com/Learn-At-RocketCamp/node-main-w2#readme"
+}
